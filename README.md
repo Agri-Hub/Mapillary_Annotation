@@ -21,3 +21,26 @@ The dataset is available [here](https://zenodo.org/record/5846417). It contains:
 - a csv file, which contains the polygons of 45581 parcels together with an id for each parcel, the corresponging image id and date of the capture, the direction of the image that capture each parcel as well as the label of the illustrated crop. Below is shown an example of this file.
  
 ![Info](/images/info.png)
+
+#### Overall Statistics
+
+Grassland       40220
+Maize            4783
+Potatos           297
+Winter Wheat      127
+Sumer Barley       56
+Sugar Beet         36
+Rice               33
+Onions             29
+
+| Label | Count | # Secondary | Code[^1] |
+| --- | --- | --- | --- |
+| `Grassland` | 40220 | 
+| `Maize` | 4783 | 
+| `Potatos` | 297 | 
+| `Winter Wheat` | 127 |
+| `Sumer Barley` | 56 | 
+| `Sugar Beet` | 36 | 
+| `Rice` | 33 | 
+| `Onions` | 29 | 
+| **`Total`**[^2]  | **45581** | 
