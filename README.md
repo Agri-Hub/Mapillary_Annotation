@@ -24,7 +24,7 @@ The dataset is available [here](https://zenodo.org/record/5846417). It contains:
 
 #### Overall Statistics
 
-| Label | Count | 
+| Label | Count [^1] |
 | --- | --- | --- | --- |
 | `Grassland` | 40220 | 
 | `Maize` | 4783 | 
@@ -34,4 +34,4 @@ The dataset is available [here](https://zenodo.org/record/5846417). It contains:
 | `Sugar Beet` | 36 | 
 | `Rice` | 33 | 
 | `Onions` | 29 | 
-| **`Total`  | **45581** | 
+| **`Total`**[^2] | **45581** | 
