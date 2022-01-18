@@ -4,9 +4,8 @@ Using the API of the crowdsourcing platform Mapillary, we automatically download
 
 The dataset contatins:
 - street level images from the Mapillary API. We have also used the BRISQUE algorithm for No Reference Image Qaulity Assessment (NR-IQA) of the images, in order to exclude the unsuitable ones.
-
-#### Example of bad quality image, which is discarded.
-
+<!-- 
+#### Example of bad quality image, which is discarded. -->
 #### Example of good quality image, which is included.
 
 
