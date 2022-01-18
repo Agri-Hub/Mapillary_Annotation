@@ -25,7 +25,7 @@ The dataset is available [here](https://zenodo.org/record/5846417). It contains:
 #### Overall Statistics
 
 | Label | Count [^1] |
-| --- | --- | --- | --- |
+| --- | --- | 
 | `Grassland` | 40220 | 
 | `Maize` | 4783 | 
 | `Potatos` | 297 | 
