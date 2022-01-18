@@ -6,7 +6,7 @@ The dataset contatins:
 - street level images from the Mapillary API. We have also used the BRISQUE algorithm for No Reference Image Qaulity Assessment (NR-IQA) of the images, in order to exclude the unsuitable ones.
 <!-- 
 #### Example of bad quality image, which is discarded. -->
-#### Example of good quality image, which is included.
+#### Example of good quality image
 ![StreetLevel](/images/StreetLevel.png)
 
 - a csv file, which contains the polygons of 80 parcels coupled with an id. 
