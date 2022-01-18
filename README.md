@@ -7,7 +7,7 @@ The dataset contatins:
 <!-- 
 #### Example of bad quality image, which is discarded. -->
 #### Example of good quality image, which is included.
-![StreetLevel](/images/StreetLevel.png.png)
+![StreetLevel](/images/StreetLevel.png)
 
 - a csv file, which contains the polygons of 80 parcels coupled with an id. 
 <!--  We move the initial geo-location coordinates (lat1, lon1) to new coordinates (lat2, lon2) that are d = 10m away in the direction of angle θ.  <br />
