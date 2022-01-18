@@ -7,15 +7,14 @@ For Case 1, we set `θ = compass angle + 45` or the right half of the image and 
 
 Consequntly, we use a No Reference Image Quality Assessment (NR-IQA) algorithm, namely BRISQUE, to remove bad quality images. 
 
-The dataset is available [here](https://zenodo.org/record/5846417)
+The dataset is available [here](https://zenodo.org/record/5846417). It contains:
 
-
-The dataset contains:
 - street level images from the Mapillary API.  We have also used the BRISQUE algorithm for No Reference Image Qaulity Assessment (NR-IQA) of the images, in order to exclude the unsuitable ones.
 <!-- 
 #### Example of bad quality image, which is discarded. -->
 #### Example of good quality image
 ![StreetLevel](/images/StreetLevel.png)
 
-- a csv file, which contains the polygons of 45581 parcels together with an id for each parcel, the corresponging image id and date of the capture, the direction of the image that capture each parcel as well as the label of the illustrated crop.
+- a csv file, which contains the polygons of 45581 parcels together with an id for each parcel, the corresponging image id and date of the capture, the direction of the image that capture each parcel as well as the label of the illustrated crop. Below is shown an example of this file.
+ 
 ![Info](/images/info.png)
