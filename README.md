@@ -24,16 +24,7 @@ The dataset is available [here](https://zenodo.org/record/5846417). It contains:
 
 #### Overall Statistics
 
-Grassland       40220
-Maize            4783
-Potatos           297
-Winter Wheat      127
-Sumer Barley       56
-Sugar Beet         36
-Rice               33
-Onions             29
-
-| Label | Count | # Secondary | Code[^1] |
+| Label | Count | 
 | --- | --- | --- | --- |
 | `Grassland` | 40220 | 
 | `Maize` | 4783 | 
@@ -43,4 +34,4 @@ Onions             29
 | `Sugar Beet` | 36 | 
 | `Rice` | 33 | 
 | `Onions` | 29 | 
-| **`Total`**[^2]  | **45581** | 
+| **`Total`  | **45581** | 
