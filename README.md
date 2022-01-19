@@ -10,6 +10,8 @@ For Case 2 we set `θ = compass angle`.
 
 Consequntly, we use a No Reference Image Quality Assessment (NR-IQA) algorithm, namely BRISQUE, to remove bad quality images. 
 
+The code for downloading and annotating the images from the Mapillary platform is available in this [link](https://github.com/Agri-Hub/Callisto/tree/main/Mapillary) 
+
 The dataset is available [here](https://zenodo.org/record/5846417). It contains:
 
 - street level images from the Mapillary API.  We have also used the BRISQUE algorithm for No Reference Image Qaulity Assessment (NR-IQA) of the images, in order to exclude the unsuitable ones.
