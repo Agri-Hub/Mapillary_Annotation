@@ -42,7 +42,8 @@ The dataset is available in [this link](https://zenodo.org/record/5846417). It c
 
 If you use this dataset please cite the publication below
 
-```
+
+```bibtex
 @inproceedings{sitokonstantinou2022datacap,
   title={DataCAP: A Satellite Datacube and Crowdsourced Street-Level Images for the Monitoring of the Common Agricultural Policy},
   author={Sitokonstantinou, Vasileios and Koukos, Alkiviadis and Drivas, Thanassis and Kontoes, Charalampos and Karathanassi, Vassilia},
@@ -52,3 +53,4 @@ If you use this dataset please cite the publication below
   organization={Springer}
 }
 ```
+
