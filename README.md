@@ -43,14 +43,12 @@ The dataset is available in [this link](https://zenodo.org/record/5846417). It c
 If you use this dataset please cite the publication below
 
 ```
-@proceedings{sitokonstantinou_vasileios_2022_5845512,
-  title        = {{DataCAP: A Satellite Datacube and Crowdsourced 
-                   Street-level Images for the Monitoring of the
-                   Common Agricultural Policy}},
-  year         = 2022,
-  publisher    = {Zenodo},
-  month        = jan,
-  doi          = {10.5281/zenodo.5845512},
-  url          = {https://doi.org/10.5281/zenodo.5845512}
+@inproceedings{sitokonstantinou2022datacap,
+  title={DataCAP: A Satellite Datacube and Crowdsourced Street-Level Images for the Monitoring of the Common Agricultural Policy},
+  author={Sitokonstantinou, Vasileios and Koukos, Alkiviadis and Drivas, Thanassis and Kontoes, Charalampos and Karathanassi, Vassilia},
+  booktitle={International Conference on Multimedia Modeling},
+  pages={473--478},
+  year={2022},
+  organization={Springer}
 }
 ```
